@@ -60,7 +60,7 @@ In order to run this project you need:Clone the repository
 
 ### Setup
 
-Copy and paste code from your pre-enrollment bootcamp project
+Copy and paste code from your the pre-enrollment bootcamp project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
